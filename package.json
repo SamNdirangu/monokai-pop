@@ -1,0 +1,54 @@
+{
+	"name": "monokai-pop",
+	"displayName": "Monokai Pop",
+	"description": "A very dark and Popping Monokai based theme.",
+	"version": "0.5.2",
+	"publisher": "Ndirangu",
+	"icon": "images/icon.png",
+	"author": "Sam Ndirangu",
+	"license": "MIT",
+	"galleryBanner": {
+		"color": "#16171d",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/samndirangu/monokai-pop.git"
+	},
+	"bugs": {
+		"url": "https://github.com/samndirangu/monokai-pop/issues"
+	},
+	"homepage": "https://github.com/samndirangu/monokai-pop/blob/master/README.md",
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"monokai",
+		"popping",
+		"dark",
+		"colorful"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Pop",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai Pop-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "40ae5cb7-e0d1-4d3d-b44f-1bea5279c6d7",
+		"publisherId": "e17173b9-9682-4213-ba62-13296c84b6f3",
+		"publisherDisplayName": "s3gf4ult",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1668164964125,
+		"preRelease": false
+	}
+}
